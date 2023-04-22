@@ -26,8 +26,8 @@ The image generation engine, specifically the DALL·E model, is provided by Open
 <details>
   <summary>Vue, router, toastify</summary>
   I used Vue3 for study purposes, but the application could be done with any framework, such as React or Angular.<br>
-  The routing tool is used to allow the application to have a easy and maintainable multiple pages app.<br> 
-  Toastify was a simple and quick approach to create error popups, confirmations or warnings on the screen
+  The routing tool is used to allow the application to have a easy and maintainable multiple page.<br> 
+  Toastify was a simple and quick approach to create error popups, confirmations or warnings on the screen.
 </details>
 
 <details>
