@@ -9,7 +9,7 @@ This is a Vue3 project using Typescript, it generates images by user inputs.
 ## What it does
 IAginator generates images by text inputs. It receives 3 inputs from the user, they are:<br> 
 The size of the image, the number of images and the text that the person wants to transform.<br>
-In this project, the image generation engine, specifically the DALL·E model, is provided by OpenAI, .
+The image generation engine, specifically the DALL·E model, is provided by OpenAI, .
 
 ## To build this, i used
 - https://openai.com/product/dall-e-2
